@@ -15,3 +15,8 @@ Create a new Zap in Zapier with Google Forms as the trigger.
 Use Zapier AI to evaluate the candidate data.
 Configure email notifications for suitable candidates.
 Test the Zap: Submit a test entry through the Google Form and ensure the process works as intended.
+
+Technologies Used
+Zapier
+Google Forms
+AI Integration
